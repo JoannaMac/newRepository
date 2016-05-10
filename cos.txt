@@ -1,2 +1,1 @@
-cloning the rails skeleton repo.s there a good way to that. Perhaps I should that. Perhaps I should go about doing this? Or, maybe this isn't the way ps I should have multiple repos, with the rails skeleton repo tracking the master skeleton repo? And any individual project cloning the rails skeleton repo.
-that. Perhaps I should 
+ostateczna wersja
